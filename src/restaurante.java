@@ -29,5 +29,7 @@ public class restaurante {
     System.out.printf(" O valor final é : %.2f", valorFinal);
     System.out.printf(" cada pessoa deve pagar : %.2f", precoPessoa);
 
+    //comentario apenas para treinar
+
     }
 }
